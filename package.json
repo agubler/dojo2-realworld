@@ -1,6 +1,7 @@
 {
   "name": "dojo2-realworld",
   "version": "1.0.0",
+  "main": "src/main.ts",
   "scripts": {
     "precommit": "lint-staged",
     "prettier": "prettier --write 'src/**/*.ts' 'tests/**/*.ts'",
